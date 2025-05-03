@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1746289436 source:c:\users\hp\documents\windmill3d\build\windmill3d\main.cpp
+	<GL/glut.h>
+
